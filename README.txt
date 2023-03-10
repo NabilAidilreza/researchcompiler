@@ -12,6 +12,8 @@ It will collect:
 How to collect:
 Dictionary Search -> Get Link
 Wikipedia Search -> Get Link
+
+Using BROWSE AI
 Google Search -> Get top 10 links
 Google Scholars Search -> Get top 10 links
 Google News -> 2 pages worth of links
